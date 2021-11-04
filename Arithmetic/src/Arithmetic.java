@@ -35,11 +35,11 @@ public class Arithmetic {
 
     public static void maxmin2Ch(int x3, int y3) {
         if (x3 > y3) {
-            System.out.println("Максимальное значение из этих 2х чисел: " + x3);
-            System.out.println("Минимальное значение из этих 2х чисел: " + y3);
+            System.out.println("Максимальное значение из этих 2-х чисел: " + x3);
+            System.out.println("Минимальное значение из этих 2-х чисел: " + y3);
         } else {
-            System.out.println("Максимальное значение из этих 2х чисел: " + y3);
-            System.out.println("Минимальное значение из этих 2х чисел: " + x3);
+            System.out.println("Максимальное значение из этих 2-х чисел: " + y3);
+            System.out.println("Минимальное значение из этих 2-х чисел: " + x3);
         }
     }
 }
